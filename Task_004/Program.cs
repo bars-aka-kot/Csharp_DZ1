@@ -12,5 +12,5 @@ Console.Write("Введите третье целое число: ");
 int number3 = Convert.ToInt32(Console.ReadLine());
 int max = number1;
 if (number1 < number2) max = number2;
-if (number3>max) max=number3;
+if (number3 > max) max = number3;
 Console.WriteLine($"Максимальное число = {max}");
