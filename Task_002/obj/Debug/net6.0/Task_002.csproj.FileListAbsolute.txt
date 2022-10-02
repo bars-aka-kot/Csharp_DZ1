@@ -1,0 +1,15 @@
+D:\GeekBrains\VSCodeGit\Csharp_DZ1\Task_002\obj\Debug\net6.0\Task_002.csproj.AssemblyReference.cache
+D:\GeekBrains\VSCodeGit\Csharp_DZ1\Task_002\obj\Debug\net6.0\Task_002.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\VSCodeGit\Csharp_DZ1\Task_002\obj\Debug\net6.0\Task_002.AssemblyInfoInputs.cache
+D:\GeekBrains\VSCodeGit\Csharp_DZ1\Task_002\obj\Debug\net6.0\Task_002.AssemblyInfo.cs
+D:\GeekBrains\VSCodeGit\Csharp_DZ1\Task_002\obj\Debug\net6.0\Task_002.csproj.CoreCompileInputs.cache
+D:\GeekBrains\VSCodeGit\Csharp_DZ1\Task_002\bin\Debug\net6.0\Task_002.exe
+D:\GeekBrains\VSCodeGit\Csharp_DZ1\Task_002\bin\Debug\net6.0\Task_002.deps.json
+D:\GeekBrains\VSCodeGit\Csharp_DZ1\Task_002\bin\Debug\net6.0\Task_002.runtimeconfig.json
+D:\GeekBrains\VSCodeGit\Csharp_DZ1\Task_002\bin\Debug\net6.0\Task_002.dll
+D:\GeekBrains\VSCodeGit\Csharp_DZ1\Task_002\bin\Debug\net6.0\Task_002.pdb
+D:\GeekBrains\VSCodeGit\Csharp_DZ1\Task_002\obj\Debug\net6.0\Task_002.dll
+D:\GeekBrains\VSCodeGit\Csharp_DZ1\Task_002\obj\Debug\net6.0\refint\Task_002.dll
+D:\GeekBrains\VSCodeGit\Csharp_DZ1\Task_002\obj\Debug\net6.0\Task_002.pdb
+D:\GeekBrains\VSCodeGit\Csharp_DZ1\Task_002\obj\Debug\net6.0\Task_002.genruntimeconfig.cache
+D:\GeekBrains\VSCodeGit\Csharp_DZ1\Task_002\obj\Debug\net6.0\ref\Task_002.dll
