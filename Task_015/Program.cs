@@ -16,16 +16,17 @@
 
 // Второй способ. Объявление метода
 
-int DayOfWeek(int num)
+string DayOfWeek(int num)
 {
-    if (num == 6 || num == 7) return 1;
-    else if (num > 0 && num <6) return 2;
-    else return 3;
+    string res = default;
+    if (num == 6 || num == 7) res = $"{num} -> да";
+    else if (num > 0 && num <6) res = $"{num} -> нет";
+    else res = "нет такого дня недели";
+    return res;
 }
 
 Console.Write("Введите день недели: ");
 int a = Convert.ToInt32(Console.ReadLine());
 
-if (DayOfWeek(a) == 1) Console.WriteLine($"{a} -> да");
-else if (DayOfWeek(a) == 2) Console.WriteLine($"{a} -> нет");
-else Console.WriteLine("Нет такого дня недели");
+string result = DayOfWeek(a);
+Console.WriteLine(result);
